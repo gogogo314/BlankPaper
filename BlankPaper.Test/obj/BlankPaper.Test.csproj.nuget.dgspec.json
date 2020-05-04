@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp\\BlankPaper.Test\\BlankPaper.Test.csproj": {}
+    "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp - 副本\\BlankPaper.Test\\BlankPaper.Test.csproj": {}
   },
   "projects": {
-    "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp.csproj": {
+    "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp - 副本\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp.csproj",
+        "projectUniqueName": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp - 副本\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp.csproj",
         "projectName": "BlankPaper.ConsoleApp",
-        "projectPath": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp.csproj",
+        "projectPath": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp - 副本\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\陈旭坤\\.nuget\\packages\\",
-        "outputPath": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp\\obj\\",
+        "outputPath": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp - 副本\\BlankPaper.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp\\BlankPaper.Test\\BlankPaper.Test.csproj": {
+    "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp - 副本\\BlankPaper.Test\\BlankPaper.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp\\BlankPaper.Test\\BlankPaper.Test.csproj",
+        "projectUniqueName": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp - 副本\\BlankPaper.Test\\BlankPaper.Test.csproj",
         "projectName": "BlankPaper.Test",
-        "projectPath": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp\\BlankPaper.Test\\BlankPaper.Test.csproj",
+        "projectPath": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp - 副本\\BlankPaper.Test\\BlankPaper.Test.csproj",
         "packagesPath": "C:\\Users\\陈旭坤\\.nuget\\packages\\",
-        "outputPath": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp\\BlankPaper.Test\\obj\\",
+        "outputPath": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp - 副本\\BlankPaper.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp.csproj": {
-                "projectPath": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp.csproj"
+              "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp - 副本\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp.csproj": {
+                "projectPath": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp - 副本\\BlankPaper.ConsoleApp\\BlankPaper.ConsoleApp.csproj"
               }
             }
           }

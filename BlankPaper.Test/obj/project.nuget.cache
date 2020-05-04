@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Izp2LEor8SXbme38g2FbZ8pnHJT6+UE+w7s6e41NBe1odZQIZ79lS+A8UpsXC+Rnx3gvg+pWYUgBgUScmc+og==",
+  "dgSpecHash": "6CJ4ua1bo5dv9vRP26zJvts0OPz/vpuqYB7xF0sxnvj/doJc+hP2F41xP5UuySzrom9FEPaXWbjGBHjCuTia/g==",
   "success": true,
-  "projectFilePath": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp\\BlankPaper.Test\\BlankPaper.Test.csproj",
+  "projectFilePath": "D:\\D ( Date File 2)\\VS2019\\BlankPaper.ConsoleApp - 副本\\BlankPaper.Test\\BlankPaper.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\陈旭坤\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\陈旭坤\\.nuget\\packages\\microsoft.codecoverage\\16.2.0\\microsoft.codecoverage.16.2.0.nupkg.sha512",
